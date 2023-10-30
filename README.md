@@ -54,11 +54,13 @@ Python, modeller shell
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
- 
-  ```
 ### Command
 mod10.4 modeller-script.py
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- CONTACT -->
