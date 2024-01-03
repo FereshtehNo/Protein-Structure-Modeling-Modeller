@@ -1,13 +1,11 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-<h3 align="center">Protein-Structure-Modeling-Modeller </h3>
+<h3 align="center">Protein-Structure-Modeling-Modeller 🧬</h3>
 
   <p align="center">
     Department of Bioinformatics, IBB, University of Tehran
@@ -18,8 +16,6 @@
 <div align="center">
   <img src="LOGO.PNG" alt="Alt text">
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -40,21 +36,18 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
-## ROADMAP
+## ROADMAP 🗺️
 
 We aim to build a model for a new protein sequence with an unknown 3D structure. After identifying the best reference, we create models using MODELLER. For this, we require the 'reference.pdb,' 'alignment.ali,' and 'python-script.py.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Languages Used
+## Languages Used 💻
 
 Python, modeller shell 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -65,26 +58,19 @@ mod10.4 modeller-script.py
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
-## Contact
+## Contact 📧
 
 Fereshteh Noroozi - [@LinkedIn](https://ir.linkedin.com/in/fereshteh-noroozi-a90886118?original_referer=https%3A%2F%2Fwww.google.com%2F) 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Acknowledgments 🙌
 
 Department of Bioinformatics, IBB, University of Tehran
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
